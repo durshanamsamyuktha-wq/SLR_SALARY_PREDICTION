@@ -94,6 +94,9 @@ Skilled in Python, SQL, Tableau, and Machine Learning
 📧 Email: durshanamsamyuktha@gmail.com
 📱 Phone: +91-9347597314
 
+🔗 Connect & Explore
+Render link: https://slr-salary-predictions.onrender.com
+
 ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
